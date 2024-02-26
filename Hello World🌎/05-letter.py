@@ -1,0 +1,17 @@
+#Create a blank letter.py program.
+#In this exercise, you will write a letter to your future self... in Python.
+print('+---------------------------------------------------------------------+')
+print('|                                                   26 February 2024  |')
+print('|                                                      Nagpur,MH,IND  |')
+print('|  Dear Self,                                                         |')
+print('|                                                                     |')
+print('|      Build the learn to code platform that you always dreamed of.   |')
+print('|      Give more than you take.                                       |')
+print('|      Care > capital.                                                |')
+print('|      Five-second funerals for all the Ls.                           |')
+print('|      And always get back up.                                        |')
+print('|      Good Things take time.                                         |')
+print('|                                                                     |')
+print('|                                    Kunal Parkhade 🔥               |')
+print('|                                                                     |')
+print('+---------------------------------------------------------------------+')

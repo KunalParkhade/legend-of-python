@@ -85,4 +85,4 @@ Let's embark on this journey together to uncover the "Legend of Python"! Happy c
 
 --- 
 
-*This repository is maintained by Kunal Parkhade[github.com/KunaLParkhade].*
+*This repository is maintained by [Kunal Parkhade](https://github.com/KunalParkhade).*

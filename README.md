@@ -41,6 +41,30 @@ This repository houses a collection of modules designed specifically for beginne
 
 16. **Sorting Hat**: Create a program inspired by the Sorting Hat from Harry Potter, assigning students to Hogwarts houses based on their preferences.
 
+### Loops
+17. **Enter PIN**: Simulate a PIN entry system using loops and conditional statements.
+
+18. **Guess Number**: Implement a number guessing game using loops for repetition.
+
+19. **Detention**: Create a program to simulate detention check-ins using loops.
+
+20. **99 Bottles**: Write a program that prints the lyrics to the song "99 Bottles of Beer on the Wall" using loops.
+
+21. **Fizz Buzz**: Implement the FizzBuzz game using loops and conditional statements.
+
+### Lists
+22. **Grocery**: Manage a grocery list using Python lists and list operations.
+
+23. **To-Do**: Create a simple to-do list application using lists.
+
+24. **Inventory**: Manage inventory items using lists and list manipulation techniques.
+
+25. **Reading**: Simulate a reading list manager using lists in Python.
+
+26. **Mixtape**: Organize your favorite songs into a mixtape using Python lists.
+
+27. **Bucket List**: Keep track of your life goals and dreams using Python lists.
+
 ## How to Use:
 
 Each module is organized into separate directories within this repository. Navigate to the module you're interested in and explore the Python scripts provided.
@@ -61,4 +85,4 @@ Let's embark on this journey together to uncover the "Legend of Python"! Happy c
 
 --- 
 
-*This repository is maintained by [Kunal Parkhade].*
+*This repository is maintained by Kunal Parkhade[github.com/KunaLParkhade].*
